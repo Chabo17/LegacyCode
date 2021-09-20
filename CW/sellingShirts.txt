@@ -1,0 +1,10 @@
+import sys
+
+def main(filename):
+	f = open(filename, 'rU')
+	text=f.read().split()
+	
+	
+	
+if __name__ == '__main__':
+  main(sys.argv[1])

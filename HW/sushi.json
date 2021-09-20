@@ -1,0 +1,486 @@
+{
+ "query": {
+  "count": 10,
+  "created": "2017-01-24T15:53:39Z",
+  "lang": "en-US",
+  "diagnostics": {
+   "publiclyCallable": "true",
+   "cache": [
+    {
+     "execution-start-time": "6",
+     "execution-stop-time": "7",
+     "execution-time": "1",
+     "method": "GET",
+     "type": "MEMCACHED",
+     "content": "local.search://transorm_xsl_5HWCXxRh"
+    },
+    {
+     "execution-start-time": "6",
+     "execution-stop-time": "7",
+     "execution-time": "1",
+     "method": "get",
+     "type": "MEMCACHED",
+     "content": "local.search://transorm_xsl_5HWCXxRh"
+    },
+    {
+     "execution-start-time": "175",
+     "execution-stop-time": "177",
+     "execution-time": "2",
+     "method": "GET",
+     "type": "MEMCACHED",
+     "content": "5c39bc778e31044790d007ed3951f35f"
+    }
+   ],
+   "url": {
+    "execution-start-time": "8",
+    "execution-stop-time": "167",
+    "execution-time": "159",
+    "content": "hidden"
+   },
+   "query": {
+    "execution-start-time": "203",
+    "execution-stop-time": "255",
+    "execution-time": "52",
+    "content": "select * from xslt where xml=@xml and stylesheetliteral=@stylesheet"
+   },
+   "javascript": {
+    "execution-start-time": "5",
+    "execution-stop-time": "256",
+    "execution-time": "250",
+    "instructions-used": "0",
+    "table-name": "local.search"
+   },
+   "user-time": "259",
+   "service-time": "163",
+   "build-version": "2.0.84"
+  },
+  "results": {
+   "Result": [
+    {
+     "id": "990021347584",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "Roy's",
+     "Address": "575 Mission St",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 777-0277",
+     "Latitude": "37.7881",
+     "Longitude": "-122.3991",
+     "Rating": {
+      "AverageRating": "5",
+      "TotalRatings": "16",
+      "TotalReviews": "16",
+      "LastReviewDate": "1285836111",
+      "LastReviewIntro": " I must say I had the greatest dinner ever and I may add I have dined at many of the finest restaurants in sanfrancisco. I have been at the top of the Mark and Sears,Joes all of them and Roys was by far the finest in the attentive staff, the drinks were good I had a mango mojito the appitizer was the sampler lobster potsticker, shortrib, aji tuna and shrimp. it was perfection nothing overpowering and my mouth was in a twirl of joy. I orderd the sea food dinner lobster, shrimp,and scallops all amazing nothing was overdone or under cooked all perfection. we shared the salid wich was baby greens and also a pleasure to enjoy. the end was a chocolate suffley that was full of chocolate syrup and it all ran out with every spoon fresh vanilla bean ice cream and coffee it was an inchanting evening and the waiter was a complete prince I felt like a Queen and ate a dream dinner."
+     },
+     "Distance": "3.57",
+     "Url": "https://local.yahoo.com/info-990021347584-roy-s-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990021347584-roy-s-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990021347584-roy-s-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.roysrestaurant.com/SanFrancisco",
+     "BusinessClickUrl": "http://www.roysrestaurant.com/SanFrancisco",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926236",
+        "content": "Restaurant"
+       }
+      ]
+     }
+    },
+    {
+     "id": "990021373494",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "Sushi Bistro",
+     "Address": "431 Balboa St",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 933-7100",
+     "Latitude": "37.77701",
+     "Longitude": "-122.4635",
+     "Rating": {
+      "AverageRating": "5",
+      "TotalRatings": "37",
+      "TotalReviews": "37",
+      "LastReviewDate": "1286334999",
+      "LastReviewIntro": " Nice place: I enjoyed this place very much, the food was very good! The sushi was fresh and very tasty. I like the variety in the menu and the presentation of the food was a nice amenity. I was a little disappointed with the ambiance. Not a bad thing, I thought it would be a little bit more lively and crowded, but instead of it was more quiet than I thought. Which wasnt a bad thing, since my friend and I didnt have to wait for a table and could hear each other talk. Overall, I would recommend this place, but I little bit overrated, I thought reading from the other reviewers."
+     },
+     "Distance": "2.44",
+     "Url": "https://local.yahoo.com/info-990021373494-sushi-bistro-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990021373494-sushi-bistro-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990021373494-sushi-bistro-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.sushibistro.com/",
+     "BusinessClickUrl": "http://www.sushibistro.com/",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926210",
+        "content": "Japanese Restaurant"
+       },
+       {
+        "id": "196926236",
+        "content": "Restaurant"
+       },
+       {
+        "id": "196926192",
+        "content": "Hungarian Restaurant"
+       }
+      ]
+     }
+    },
+    {
+     "id": "990021382989",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "Ebisu",
+     "Address": "1283 9th Ave",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 566-1770",
+     "Latitude": "37.76444",
+     "Longitude": "-122.46666",
+     "Rating": {
+      "AverageRating": "4.5",
+      "TotalRatings": "38",
+      "TotalReviews": "38",
+      "LastReviewDate": "1368723727",
+      "LastReviewIntro": " This is the best sushi in SF so far. Its the freshest tasting and has some of the most original sushi dishes Ive found yet. The bacon wrapped scallops, seafood salad and pink cadillac are especially worth noting. Service and atmosphere are nice as well. I cant wait to try the next thing, their menu is loaded with tasty options."
+     },
+     "Distance": "1.91",
+     "Url": "https://local.yahoo.com/info-990021382989-ebisu-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990021382989-ebisu-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990021382989-ebisu-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.ebisusushi.com/",
+     "BusinessClickUrl": "http://www.ebisusushi.com/",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196925852",
+        "content": "Catering Service"
+       },
+       {
+        "id": "196926057",
+        "content": "Bar & Pub"
+       },
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926210",
+        "content": "Japanese Restaurant"
+       },
+       {
+        "id": "196926217",
+        "content": "Family Style Restaurant"
+       },
+       {
+        "id": "196926234",
+        "content": "Carry Out & Take Out"
+       },
+       {
+        "id": "196926236",
+        "content": "Restaurant"
+       }
+      ]
+     }
+    },
+    {
+     "id": "990099401524",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "Saru Sushi Bar",
+     "Address": "3856 24th St",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 400-4510",
+     "Latitude": "37.75181",
+     "Longitude": "-122.42879",
+     "Rating": {
+      "AverageRating": "5",
+      "TotalRatings": "1",
+      "TotalReviews": "1",
+      "LastReviewDate": "1360150556",
+      "LastReviewIntro": " If u like specialty authentic Japanese sushi, this is the place!"
+     },
+     "Distance": "0.65",
+     "Url": "https://local.yahoo.com/info-990099401524-saru-sushi-bar-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990099401524-saru-sushi-bar-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990099401524-saru-sushi-bar-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.akaisarusf.com/",
+     "BusinessClickUrl": "http://www.akaisarusf.com/",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926210",
+        "content": "Japanese Restaurant"
+       },
+       {
+        "id": "196926236",
+        "content": "Restaurant"
+       }
+      ]
+     }
+    },
+    {
+     "id": "990021345142",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "Akiko's Restaurant",
+     "Address": "431 Bush St",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 397-3218",
+     "Latitude": "37.79039",
+     "Longitude": "-122.40463",
+     "Rating": {
+      "AverageRating": "5",
+      "TotalRatings": "1",
+      "TotalReviews": "1",
+      "LastReviewDate": "1188306624",
+      "LastReviewIntro": " My wife and I were pleasently supprised, the restaurant was cozy and clean. We enjoyed the owners friendly and polite conversation.To top it off, the rolls and tampura was absolulty the best we have had anywere. We would recomend Akikos to anyone. We will come back the next time we are in San Francisco. We have lived in the Bay Area for over 25 yrs. and I am sorry we didnt find Akikos years ago. You will enjoy it."
+     },
+     "Distance": "3.52",
+     "Url": "https://local.yahoo.com/info-990021345142-akiko-s-restaurant-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990021345142-akiko-s-restaurant-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990021345142-akiko-s-restaurant-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.akikosrestaurant.com/",
+     "BusinessClickUrl": "http://www.akikosrestaurant.com/",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926210",
+        "content": "Japanese Restaurant"
+       },
+       {
+        "id": "196926236",
+        "content": "Restaurant"
+       },
+       {
+        "id": "196925689",
+        "content": "Recreation & Sporting Goods"
+       },
+       {
+        "id": "196926217",
+        "content": "Family Style Restaurant"
+       }
+      ]
+     }
+    },
+    {
+     "id": "990192352490",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "Shizen Vegan Sushi Bar & Izakaya",
+     "Address": "370 14th St",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 678-5767",
+     "Latitude": "37.76831",
+     "Longitude": "-122.421667",
+     "Rating": {
+      "AverageRating": "NaN",
+      "TotalRatings": "0",
+      "TotalReviews": "0",
+      "LastReviewDate": null,
+      "LastReviewIntro": null
+     },
+     "Distance": "1.74",
+     "Url": "https://local.yahoo.com/info-990192352490-shizen-vegan-sushi-bar-izakaya-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990192352490-shizen-vegan-sushi-bar-izakaya-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990192352490-shizen-vegan-sushi-bar-izakaya-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.cityseekr.com/san-francisco/restaurants/poi-shizen-vegan-sushi-bar-izakaya-957137.html",
+     "BusinessClickUrl": "http://www.cityseekr.com/san-francisco/restaurants/poi-shizen-vegan-sushi-bar-izakaya-957137.html",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926239",
+        "content": "Vegetarian Restaurant"
+       }
+      ]
+     }
+    },
+    {
+     "id": "990021348180",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "Sanraku",
+     "Address": "704 Sutter St",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 771-0803",
+     "Latitude": "37.789",
+     "Longitude": "-122.41219",
+     "Rating": {
+      "AverageRating": "5",
+      "TotalRatings": "9",
+      "TotalReviews": "9",
+      "LastReviewDate": "1165107495",
+      "LastReviewIntro": " The place was packed for a Thursday night. The prices on the menu were reasonable and cheap. We were able to sit down after a short wait. However, the food was horrible. We ordered a starter -tuna tar tar, spicy salmon sushi, uni sushi,beef teriyaki (medium rare) w/ sashimi. The restaurant was so busy that our food came after a 20 min. wait.Whats worst is they first served a well done beef teriyaki with rice. Then after following up our other orders bec another 10 mins passed they served the sashimi and sushi. The uni sushi was great but the spicy salmon was not a bit spicy.I was disappointed. The last order that arrived was our starter-the tuna tar tar. Overall, we did not have a good experience with this restaurant with such high reviews."
+     },
+     "Distance": "3.24",
+     "Url": "https://local.yahoo.com/info-990021348180-sanraku-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990021348180-sanraku-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990021348180-sanraku-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.sanraku.com",
+     "BusinessClickUrl": "http://www.sanraku.com",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926208",
+        "content": "Malaysian Restaurant"
+       },
+       {
+        "id": "196926210",
+        "content": "Japanese Restaurant"
+       },
+       {
+        "id": "196926236",
+        "content": "Restaurant"
+       }
+      ]
+     }
+    },
+    {
+     "id": "990021375959",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "Zushi Puzzle",
+     "Address": "1910 Lombard St",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 931-9319",
+     "Latitude": "37.80052",
+     "Longitude": "-122.43308",
+     "Rating": {
+      "AverageRating": "5",
+      "TotalRatings": "10",
+      "TotalReviews": "10",
+      "LastReviewDate": "1250935041",
+      "LastReviewIntro": " one word AMAZING!!! Roger the sushi chef is the absolute BEST!!!"
+     },
+     "Distance": "3.69",
+     "Url": "https://local.yahoo.com/info-990021375959-zushi-puzzle-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990021375959-zushi-puzzle-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990021375959-zushi-puzzle-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.zushipuzzle.com/",
+     "BusinessClickUrl": "http://www.zushipuzzle.com/",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926210",
+        "content": "Japanese Restaurant"
+       },
+       {
+        "id": "196926236",
+        "content": "Restaurant"
+       }
+      ]
+     }
+    },
+    {
+     "id": "990169297759",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "KUSAKABE",
+     "Address": "584 Washington St",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 757-0155",
+     "Latitude": "37.79576",
+     "Longitude": "-122.40303",
+     "Rating": {
+      "AverageRating": "NaN",
+      "TotalRatings": "0",
+      "TotalReviews": "0",
+      "LastReviewDate": null,
+      "LastReviewIntro": null
+     },
+     "Distance": "3.89",
+     "Url": "https://local.yahoo.com/info-990169297759-kusakabe-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990169297759-kusakabe-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990169297759-kusakabe-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.kusakabe-sf.com/",
+     "BusinessClickUrl": "http://www.kusakabe-sf.com/",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926210",
+        "content": "Japanese Restaurant"
+       },
+       {
+        "id": "196926236",
+        "content": "Restaurant"
+       }
+      ]
+     }
+    },
+    {
+     "id": "990021332684",
+     "xmlns": "urn:yahoo:lcl",
+     "Title": "Sushi Zone",
+     "Address": "1815 Market St",
+     "City": "San Francisco",
+     "State": "CA",
+     "Phone": "(415) 621-1114",
+     "Latitude": "37.77123",
+     "Longitude": "-122.42374",
+     "Rating": {
+      "AverageRating": "4.5",
+      "TotalRatings": "19",
+      "TotalReviews": "19",
+      "LastReviewDate": "1226539318",
+      "LastReviewIntro": " great fish, watch the glass! and call ahead! (the lines are long). first a warning: you can wait up to 2hrs to get in here (my friends say in all sincerity). well I went for the 3rd time last thursday and there was no wait, but the waitress broke a glass and I found a glass chip by my sushi roll! it kinda freaked me out. so ah I am giving them 3 stars, only because I pointed out the glass chip and the waitress basically said \"so what\" ! ha. VERY nice sushi maker guy though..."
+     },
+     "Distance": "1.85",
+     "Url": "https://local.yahoo.com/info-990021332684-sushi-zone-san-francisco",
+     "ClickUrl": "https://local.yahoo.com/info-990021332684-sushi-zone-san-francisco",
+     "MapUrl": "https://local.yahoo.com/info-990021332684-sushi-zone-san-francisco?viewtype=map",
+     "BusinessUrl": "http://www.cityseekr.com/san-francisco/restaurants/poi-sushi-zone-259193.html",
+     "BusinessClickUrl": "http://www.cityseekr.com/san-francisco/restaurants/poi-sushi-zone-259193.html",
+     "Categories": {
+      "Category": [
+       {
+        "id": "196926205",
+        "content": "Sushi Restaurant"
+       },
+       {
+        "id": "196926210",
+        "content": "Japanese Restaurant"
+       },
+       {
+        "id": "196926236",
+        "content": "Restaurant"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ }
+}

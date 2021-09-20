@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--BEGIN head-->
+<head profile="http://purl.org/uF/hAtom/0.1/ http://purl.org/uF/2008/03/">
+<!-- Custom Style Sheet for non-theme items -->
+<link rel='stylesheet' id='ncr'  href='http://nflcombineresults.com/ncr.css' type='text/css' media='all' />
+<link href="psearch.css" type="text/css" rel="stylesheet" />
+<link href="nfldata.css" type="text/css" rel="stylesheet" />
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-8344137131855904",
+    enable_page_level_ads: true
+  });
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28729702-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script src="sortable.js" type="text/javascript"></script>
+	<title>2017 NFL Combine ILB  Results - Historical NFL Scouting Combine Data</title>
+		<!-- Meta Tags -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>NFL Combine Results | Historical NFL Scouting Combine Data</title>
+<link rel="alternate" type="application/rss+xml" title="NFL Combine Results &raquo; Feed" href="http://nflcombineresults.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NFL Combine Results &raquo; Comments Feed" href="http://nflcombineresults.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/nflcombineresults.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='parallaxcss-css'  href='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/parallax/parallax.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefont-css'  href='//fonts.googleapis.com/css?family=Roboto%3Ar%2Cb%2Ci&#038;ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesomecss-css'  href='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/fontawesome/css/font-awesome.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='maincss-css'  href='http://nflcombineresults.com/wp-content/themes/evolve/style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrapcss-css'  href='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/bootstrap/css/bootstrap.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrapcsstheme-css'  href='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/bootstrap/css/bootstrap-theme.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamic-css-css'  href='http://nflcombineresults.com/wp-admin/admin-ajax.php?action=evolve_dynamic_css&#038;ver=4.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://nflcombineresults.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/parallax/parallax.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/parallax/modernizr.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/carousel.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/tipsy.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/fields.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/jquery.scroll.pack.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/supersubs.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/superfish.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/hoverIntent.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/buttons.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/ddslick.js?ver=4.2.4'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;language=en&#038;ver=4.2.4'></script>
+<script type='text/javascript' src='http://nflcombineresults.com/wp-content/themes/evolve/library/media/js/bootstrap/js/bootstrap.js?ver=4.2.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nflcombineresults.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nflcombineresults.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+     
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://nflcombineresults.com/wp-content/themes/evolve/ie.css">
+	<![endif]-->
+
+<!--END head-->
+</head>
+<!--BEGIN body-->
+<body class="home blog">
+
+<div id="wrapper">
+
+<div id="top"></div>
+
+	<!--BEGIN .header-->
+		<div class="header ">
+     
+	<!--BEGIN .container-->
+	<div class="container container-header ">
+  
+     
+      <!--BEGIN #righttopcolumn-->  
+  <div id="righttopcolumn"> 
+                       
+   <!--BEGIN #subscribe-follow-->
+ 
+<div id="social">
+ 
+<ul class="sc_menu">
+ 
+<li><a target="_blank" href="http://nflcombineresults.com/feed/rss/" class="tipsytext" id="rss" original-title="RSS Feed"><i class="fa fa-rss"></i></a></li>
+
+</ul></div> 
+
+<!--END #subscribe-follow--> 
+       
+</div> 
+  <!--END #righttopcolumn-->
+  
+   <a href=http://nflcombineresults.com><img id='logo-image' class='img-responsive' src=http://nflcombineresults.com/wp-content/uploads/2015/05/ncrlogo5.gif /></a>   
+     
+     <!--BEGIN .title-container-->
+     <div class="title-container">     
+       
+     <div id="logo"><a href="http://nflcombineresults.com">NFL Combine Results</a></div>
+        
+     <div id="tagline">Historical NFL Scouting Combine Data</div> 
+   
+      <!--END .title-container-->
+    </div>                        
+
+	<!--END .container-->
+		</div>
+    		<!--END .header-->
+		</div>
+  <div class="menu-container">
+  <div class="menu-header">  
+
+  <!--BEGIN .container-menu-->
+  <div class="container nacked-menu container-menu">
+  
+   <div class="primary-menu">   
+ <nav id="nav" class="nav-holder link-effect"><div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-27 active"><a title="Home" href="http://nflcombineresults.com/"><span data-hover="Home">Home</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36"><a title="News" href="http://nflcombineresults.com/category/news/"><span data-hover="News">News</span></a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a title="NFL Combine Data" href="http://nflcombineresults.com/nflcombinedata.php"><span data-hover="NFL Combine Data">NFL Combine Data</span></a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a title="NFL Combine 101" href="http://nflcombineresults.com/category/nflcombine101/"><span data-hover="NFL Combine 101">NFL Combine 101</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a title="Contact" href="http://nflcombineresults.com/contact/"><span data-hover="Contact">Contact</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a title="About" href="http://nflcombineresults.com/about/"><span data-hover="About">About</span></a></li>
+<li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159"><a title="Player Search" href="http://nflcombineresults.com/psearch.php"><span data-hover="Player Search">Player Search</span></a></li>
+</ul></div>   
+   </nav>  
+   </div>      
+      
+          <!--BEGIN #searchform-->
+       <form id='psearchform' action="psearch.php" method="GET" class="searchform">         
+         <div id="search-text-box">
+  <label class="searchfield" id="search_label_top" for="search-text-top"><input id="search-text-top" type="text" tabindex="1" name="nm" class="search" placeholder="Search for player" /></label> 
+  </div>        
+</form>
+<div class="clearfix"></div> 
+<!--END #searchform-->
+
+
+<header id="header" class="sticky-header">
+	<div class="container">
+
+     
+   <a class='logo-url' href=http://nflcombineresults.com><img id='logo-image' src=http://nflcombineresults.com/wp-content/uploads/2015/05/ncrlogo5.gif /></a>   
+
+		<nav id="nav" class="nav-holder">              
+ <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-27"><a href="http://nflcombineresults.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36"><a href="http://nflcombineresults.com/category/news/">News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a title="NFL Combine Historical Data" href="http://nflcombineresults.com/nflcombinedata.php">NFL Combine Data</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a title="NFL Combine Lessons" href="http://nflcombineresults.com/category/nflcombine101/">NFL Combine 101</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://nflcombineresults.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://nflcombineresults.com/about/">About</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159"><a href="http://nflcombineresults.com/psearch.php">Player Search</a></li>
+</ul></div> 	</nav>
+	</div>
+</header>          
+       </div>
+    </div> 	
+	<div class="menu-back">
+      </div>
+
+      </div> 
+
+             	<!--BEGIN .content-->
+	<div class="content home blog">  
+  
+    
+       	<!--BEGIN .container-->
+	<div class="container container-center row">
+  
+ 
+ <!-- attachment begin -->  
+
+ <!-- 2 or 3 columns begin -->
+
+        <div class="content-top"></div>
+        <div align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Player Page Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8344137131855904"
+     data-ad-slot="6970260487"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+<div align='center' style=background:'white;'>
+<br />
+<form id="filter" action="nflcombinedata_expanded.php" method="GET"> 
+<p style="font-size:20px;">
+Year: 
+<select name='year' onchange="this.form.submit();">
+<option value="all" >ALL</option>
+<option value='2017' selected>2017</option><option value='2016' >2016</option><option value='2015' >2015</option><option value='2014' >2014</option><option value='2013' >2013</option><option value='2012' >2012</option><option value='2011' >2011</option><option value='2010' >2010</option><option value='2009' >2009</option><option value='2008' >2008</option><option value='2007' >2007</option><option value='2006' >2006</option><option value='2005' >2005</option><option value='2004' >2004</option><option value='2003' >2003</option><option value='2002' >2002</option><option value='2001' >2001</option><option value='2000' >2000</option><option value='1999' >1999</option></select>  
+Position: <select name='pos' onchange="this.form.submit();">
+<option value="" >ALL</option>
+<option value="QB" >QB</option>
+<option value="RB" >RB</option>
+<option value="WR" >WR</option>
+<option value="TE" >TE</option>
+<option value="OT" >OT</option>
+<option value="OG" >OG</option>
+<option value="C" >C</option>
+<option value="DE" >DE</option>
+<option value="DT" >DT</option>
+<option value="OLB" >OLB</option>
+<option value="ILB" selected>ILB</option>
+<option value="CB" >CB</option>
+<option value="FS" >FS</option>
+<option value="SS" >SS</option>
+</select>  
+College: 
+<select name='college' onchange="this.form.submit();">
+<option value="" selected>ALL</option>
+<option value='Abilene Christian' >Abilene Christian</option><option value='Adams State' >Adams State</option><option value='Air Force' >Air Force</option><option value='Akron' >Akron</option><option value='Alabama' >Alabama</option><option value='Alabama AM' >Alabama AM</option><option value='Alabama State' >Alabama State</option><option value='Alabama-Birmingham' >Alabama-Birmingham</option><option value='Albany (NY)' >Albany (NY)</option><option value='Albany State (GA)' >Albany State (GA)</option><option value='Alcorn State' >Alcorn State</option><option value='Appalachian State' >Appalachian State</option><option value='Appalachian State (NC)' >Appalachian State (NC)</option><option value='Arizona' >Arizona</option><option value='Arizona State' >Arizona State</option><option value='Arkansas' >Arkansas</option><option value='Arkansas State' >Arkansas State</option><option value='Arkansas-Pine Bluff' >Arkansas-Pine Bluff</option><option value='Army' >Army</option><option value='Ashland' >Ashland</option><option value='Auburn' >Auburn</option><option value='Azusa Pacific' >Azusa Pacific</option><option value='Ball State' >Ball State</option><option value='Baylor' >Baylor</option><option value='Belhaven' >Belhaven</option><option value='Bethune-Cookman' >Bethune-Cookman</option><option value='Bloomsburg' >Bloomsburg</option><option value='Boise St.' >Boise St.</option><option value='Boise State' >Boise State</option><option value='Boston College' >Boston College</option><option value='Bowie State' >Bowie State</option><option value='Bowie State (MD)' >Bowie State (MD)</option><option value='Bowling Green' >Bowling Green</option><option value='Brigham Young' >Brigham Young</option><option value='Brown' >Brown</option><option value='Bucknell' >Bucknell</option><option value='Buffalo' >Buffalo</option><option value='BYU' >BYU</option><option value='C.W. Post' >C.W. Post</option><option value='Cal Davis' >Cal Davis</option><option value='Cal Poly' >Cal Poly</option><option value='California' >California</option><option value='California (PA)' >California (PA)</option><option value='Catawba' >Catawba</option><option value='Central Arkansas' >Central Arkansas</option><option value='Central Florida' >Central Florida</option><option value='Central Michigan' >Central Michigan</option><option value='Central Missouri' >Central Missouri</option><option value='Central Oklahoma' >Central Oklahoma</option><option value='Central Washington' >Central Washington</option><option value='Chadron State' >Chadron State</option><option value='Chadron State (NE)' >Chadron State (NE)</option><option value='Charleston Southern' >Charleston Southern</option><option value='Chattanooga' >Chattanooga</option><option value='Cheyney' >Cheyney</option><option value='Cincinnati' >Cincinnati</option><option value='Citadel' >Citadel</option><option value='Clarion' >Clarion</option><option value='Clark Atlanta' >Clark Atlanta</option><option value='Clemson' >Clemson</option><option value='Coastal Carolina' >Coastal Carolina</option><option value='Colorado' >Colorado</option><option value='Colorado St.' >Colorado St.</option><option value='Colorado State' >Colorado State</option><option value='Colorado State - Pueblo' >Colorado State - Pueblo</option><option value='Colorado State-Pueblo' >Colorado State-Pueblo</option><option value='Concordia - St Paul' >Concordia - St Paul</option><option value='Connecticut' >Connecticut</option><option value='Cornell' >Cornell</option><option value='Delaware' >Delaware</option><option value='Delaware State' >Delaware State</option><option value='Dixie State' >Dixie State</option><option value='Drake' >Drake</option><option value='Duke' >Duke</option><option value='East Carolina' >East Carolina</option><option value='East Central (OK)' >East Central (OK)</option><option value='East Tennessee State' >East Tennessee State</option><option value='Eastern Illinois' >Eastern Illinois</option><option value='Eastern Kentucky' >Eastern Kentucky</option><option value='Eastern Michigan' >Eastern Michigan</option><option value='Eastern Washington' >Eastern Washington</option><option value='Elon' >Elon</option><option value='Emporia State (KS)' >Emporia State (KS)</option><option value='Florida' >Florida</option><option value='Florida A&M' >Florida A&M</option><option value='Florida Atlantic' >Florida Atlantic</option><option value='Florida International' >Florida International</option><option value='Florida St.' >Florida St.</option><option value='Florida State' >Florida State</option><option value='Fordham' >Fordham</option><option value='Fort Hays State (KS)' >Fort Hays State (KS)</option><option value='Fort Valley State (GA)' >Fort Valley State (GA)</option><option value='Fresno State' >Fresno State</option><option value='Furman' >Furman</option><option value='Gardner-Webb' >Gardner-Webb</option><option value='Georgia' >Georgia</option><option value='Georgia Southern' >Georgia Southern</option><option value='Georgia State' >Georgia State</option><option value='Georgia Tech' >Georgia Tech</option><option value='Glenville State' >Glenville State</option><option value='Grambling State (LA)' >Grambling State (LA)</option><option value='Grand Valley State' >Grand Valley State</option><option value='Gustavus Adolphus' >Gustavus Adolphus</option><option value='Hampton' >Hampton</option><option value='Harding' >Harding</option><option value='Hartwick' >Hartwick</option><option value='Harvard' >Harvard</option><option value='Hawaii' >Hawaii</option><option value='Henderson State' >Henderson State</option><option value='Hillsdale' >Hillsdale</option><option value='Hobart & William Smith' >Hobart & William Smith</option><option value='Hofstra' >Hofstra</option><option value='Houston' >Houston</option><option value='Howard' >Howard</option><option value='Idaho' >Idaho</option><option value='Idaho State' >Idaho State</option><option value='Illinois' >Illinois</option><option value='Illinois St.' >Illinois St.</option><option value='Illinois State' >Illinois State</option><option value='Indiana' >Indiana</option><option value='Indiana (PA)' >Indiana (PA)</option><option value='Indiana State' >Indiana State</option><option value='Iowa' >Iowa</option><option value='Iowa State' >Iowa State</option><option value='Jackson State' >Jackson State</option><option value='Jacksonville State' >Jacksonville State</option><option value='Jacksonville State (AL)' >Jacksonville State (AL)</option><option value='James Madison' >James Madison</option><option value='John Carroll' >John Carroll</option><option value='Kansas' >Kansas</option><option value='Kansas St.' >Kansas St.</option><option value='Kansas State' >Kansas State</option><option value='Kent State' >Kent State</option><option value='Kent State (OH)' >Kent State (OH)</option><option value='Kentucky' >Kentucky</option><option value='Kentucky State' >Kentucky State</option><option value='Kutztown (PA)' >Kutztown (PA)</option><option value='Lafayette' >Lafayette</option><option value='Lamar' >Lamar</option><option value='Lane' >Lane</option><option value='Lehigh' >Lehigh</option><option value='Liberty' >Liberty</option><option value='Lincoln (MO)' >Lincoln (MO)</option><option value='Lindenwood' >Lindenwood</option><option value='Louisiana State' >Louisiana State</option><option value='Louisiana Tech' >Louisiana Tech</option><option value='Louisiana-Lafayette' >Louisiana-Lafayette</option><option value='Louisiana-Monroe' >Louisiana-Monroe</option><option value='Louisville' >Louisville</option><option value='LSU' >LSU</option><option value='Maine' >Maine</option><option value='Marian (IN)' >Marian (IN)</option><option value='Mars Hill' >Mars Hill</option><option value='Marshall' >Marshall</option><option value='Maryland' >Maryland</option><option value='Massachusetts' >Massachusetts</option><option value='McNeese State' >McNeese State</option><option value='McNeese State (LA)' >McNeese State (LA)</option><option value='Memphis' >Memphis</option><option value='Merrimack' >Merrimack</option><option value='Miami' >Miami</option><option value='Miami (OH)' >Miami (OH)</option><option value='Michigan' >Michigan</option><option value='Michigan St.' >Michigan St.</option><option value='Michigan State' >Michigan State</option><option value='Michigan Tech' >Michigan Tech</option><option value='Middle Tennessee St' >Middle Tennessee St</option><option value='Middle Tennessee St.' >Middle Tennessee St.</option><option value='Midwestern State' >Midwestern State</option><option value='Minnesota' >Minnesota</option><option value='Minnesota State' >Minnesota State</option><option value='Minnesota-Morris' >Minnesota-Morris</option><option value='Mississippi' >Mississippi</option><option value='Mississippi St.' >Mississippi St.</option><option value='Mississippi State' >Mississippi State</option><option value='Mississippi Valley State' >Mississippi Valley State</option><option value='Missouri' >Missouri</option><option value='Missouri Southern' >Missouri Southern</option><option value='Missouri State' >Missouri State</option><option value='Missouri Western' >Missouri Western</option><option value='Monmouth' >Monmouth</option><option value='Monmouth (NJ)' >Monmouth (NJ)</option><option value='Montana' >Montana</option><option value='Montana State' >Montana State</option><option value='Morgan State (MD)' >Morgan State (MD)</option><option value='Morningside' >Morningside</option><option value='Mount Union' >Mount Union</option><option value='Murray State' >Murray State</option><option value='Murray State (KY)' >Murray State (KY)</option><option value='N.C. State' >N.C. State</option><option value='Navy' >Navy</option><option value='Nebraska' >Nebraska</option><option value='Nebraska-Kearney' >Nebraska-Kearney</option><option value='Nebraska-Omaha' >Nebraska-Omaha</option><option value='Nevada' >Nevada</option><option value='New Hampshire' >New Hampshire</option><option value='New Mexico' >New Mexico</option><option value='New Mexico State' >New Mexico State</option><option value='Newberry' >Newberry</option><option value='Nicholls State' >Nicholls State</option><option value='none (CFL)' >none (CFL)</option><option value='Norfolk State' >Norfolk State</option><option value='Norfolk State (VA)' >Norfolk State (VA)</option><option value='North Alabama' >North Alabama</option><option value='North Carolina' >North Carolina</option><option value='North Carolina A&T' >North Carolina A&T</option><option value='North Carolina Central' >North Carolina Central</option><option value='North Carolina Charlotte' >North Carolina Charlotte</option><option value='North Carolina State' >North Carolina State</option><option value='North Dakota' >North Dakota</option><option value='North Dakota State' >North Dakota State</option><option value='North Texas' >North Texas</option><option value='Northeastern' >Northeastern</option><option value='Northeastern State (OK)' >Northeastern State (OK)</option><option value='Northern Arizona' >Northern Arizona</option><option value='Northern Colorado' >Northern Colorado</option><option value='Northern Illinois' >Northern Illinois</option><option value='Northern Iowa' >Northern Iowa</option><option value='Northwest Missouri St' >Northwest Missouri St</option><option value='Northwest Missouri St.' >Northwest Missouri St.</option><option value='Northwest Missouri State' >Northwest Missouri State</option><option value='Northwestern' >Northwestern</option><option value='Northwestern State' >Northwestern State</option><option value='Northwestern State (LA)' >Northwestern State (LA)</option><option value='Notre Dame' >Notre Dame</option><option value='Notre Dame (OH)' >Notre Dame (OH)</option><option value='Ohio' >Ohio</option><option value='Ohio St.' >Ohio St.</option><option value='Ohio State' >Ohio State</option><option value='Oklahoma' >Oklahoma</option><option value='Oklahoma St.' >Oklahoma St.</option><option value='Oklahoma State' >Oklahoma State</option><option value='Old Dominion' >Old Dominion</option><option value='Oregon' >Oregon</option><option value='Oregon St.' >Oregon St.</option><option value='Oregon State' >Oregon State</option><option value='Pearl River' >Pearl River</option><option value='Penn St.' >Penn St.</option><option value='Penn State' >Penn State</option><option value='Pennsylvania' >Pennsylvania</option><option value='Pittsburg State' >Pittsburg State</option><option value='Pittsburgh' >Pittsburgh</option><option value='Portland State' >Portland State</option><option value='Portland State (OR)' >Portland State (OR)</option><option value='Prairie View A&M' >Prairie View A&M</option><option value='Presbyterian' >Presbyterian</option><option value='Princeton' >Princeton</option><option value='Purdue' >Purdue</option><option value='Regina' >Regina</option><option value='Rhode Island' >Rhode Island</option><option value='Rice' >Rice</option><option value='Richmond' >Richmond</option><option value='Rutgers' >Rutgers</option><option value='Sacramento State' >Sacramento State</option><option value='Sacramento State (CA)' >Sacramento State (CA)</option><option value='Saginaw Valley State' >Saginaw Valley State</option><option value='Saginaw Valley State (MI)' >Saginaw Valley State (MI)</option><option value='Sam Houston State' >Sam Houston State</option><option value='Sam Houston State (TX)' >Sam Houston State (TX)</option><option value='Samford' >Samford</option><option value='San Diego' >San Diego</option><option value='San Diego St.' >San Diego St.</option><option value='San Diego State' >San Diego State</option><option value='San Jose State' >San Jose State</option><option value='Savannah State' >Savannah State</option><option value='Shepherd' >Shepherd</option><option value='Simon Fraser' >Simon Fraser</option><option value='Slippery Rock' >Slippery Rock</option><option value='South Alabama' >South Alabama</option><option value='South Carolina' >South Carolina</option><option value='South Carolina St.' >South Carolina St.</option><option value='South Carolina State' >South Carolina State</option><option value='South Dakota' >South Dakota</option><option value='South Dakota State' >South Dakota State</option><option value='South Florida' >South Florida</option><option value='Southeast Louisiana' >Southeast Louisiana</option><option value='Southeast Missouri State' >Southeast Missouri State</option><option value='Southeastern Louisiana' >Southeastern Louisiana</option><option value='Southern' >Southern</option><option value='Southern Arkansas' >Southern Arkansas</option><option value='Southern California' >Southern California</option><option value='Southern Illinois' >Southern Illinois</option><option value='Southern Methodist' >Southern Methodist</option><option value='Southern Miss' >Southern Miss</option><option value='Southern Mississippi' >Southern Mississippi</option><option value='Southern Oregon' >Southern Oregon</option><option value='Southern Utah' >Southern Utah</option><option value='St. Francis (PA)' >St. Francis (PA)</option><option value='Stanford' >Stanford</option><option value='Stephen F Austin' >Stephen F Austin</option><option value='Stephen F. Austin State' >Stephen F. Austin State</option><option value='Stillman' >Stillman</option><option value='Stony Brook' >Stony Brook</option><option value='Syracuse' >Syracuse</option><option value='Tarleton State (TX)' >Tarleton State (TX)</option><option value='TCU' >TCU</option><option value='Temple' >Temple</option><option value='Tennessee' >Tennessee</option><option value='Tennessee St.' >Tennessee St.</option><option value='Tennessee State' >Tennessee State</option><option value='Tennessee Tech' >Tennessee Tech</option><option value='Tennessee-Chattanooga' >Tennessee-Chattanooga</option><option value='Tennessee-Martin' >Tennessee-Martin</option><option value='Texas' >Texas</option><option value='Texas A&M' >Texas A&M</option><option value='Texas A&M-Commerce' >Texas A&M-Commerce</option><option value='Texas A&M-Kingsville' >Texas A&M-Kingsville</option><option value='Texas AM' >Texas AM</option><option value='Texas Christian' >Texas Christian</option><option value='Texas College' >Texas College</option><option value='Texas Southern' >Texas Southern</option><option value='Texas State' >Texas State</option><option value='Texas Tech' >Texas Tech</option><option value='Texas-El Paso' >Texas-El Paso</option><option value='Texas-San Antonio' >Texas-San Antonio</option><option value='Tiffin' >Tiffin</option><option value='Toledo' >Toledo</option><option value='Towson' >Towson</option><option value='Troy' >Troy</option><option value='Tulane' >Tulane</option><option value='Tulsa' >Tulsa</option><option value='Tusculum' >Tusculum</option><option value='Tuskegee' >Tuskegee</option><option value='UAB' >UAB</option><option value='UCLA' >UCLA</option><option value='UNLV' >UNLV</option><option value='USC' >USC</option><option value='Utah' >Utah</option><option value='Utah State' >Utah State</option><option value='Valdosta State' >Valdosta State</option><option value='Vanderbilt' >Vanderbilt</option><option value='Villanova' >Villanova</option><option value='Virginia' >Virginia</option><option value='Virginia Tech' >Virginia Tech</option><option value='Wagner' >Wagner</option><option value='Wake Forest' >Wake Forest</option><option value='Washburn' >Washburn</option><option value='Washington' >Washington</option><option value='Washington St.' >Washington St.</option><option value='Washington State' >Washington State</option><option value='Wayne St. (MI)' >Wayne St. (MI)</option><option value='Wayne State (MI)' >Wayne State (MI)</option><option value='Webber International' >Webber International</option><option value='Weber State (UT)' >Weber State (UT)</option><option value='West Chester' >West Chester</option><option value='West Georgia' >West Georgia</option><option value='West Liberty' >West Liberty</option><option value='West Texas A&M' >West Texas A&M</option><option value='West Texas AM' >West Texas AM</option><option value='West Virginia' >West Virginia</option><option value='Western Carolina' >Western Carolina</option><option value='Western Illinois' >Western Illinois</option><option value='Western Kentucky' >Western Kentucky</option><option value='Western Michigan' >Western Michigan</option><option value='Western New Mexico' >Western New Mexico</option><option value='Western Ontario' >Western Ontario</option><option value='Western Oregon' >Western Oregon</option><option value='Whitworth' >Whitworth</option><option value='William & Mary' >William & Mary</option><option value='Williams College' >Williams College</option><option value='Winston-Salem State (NC)' >Winston-Salem State (NC)</option><option value='Wisconsin' >Wisconsin</option><option value='Wisconsin-Stout' >Wisconsin-Stout</option><option value='Wisconsin-Whitewater' >Wisconsin-Whitewater</option><option value='Wyoming' >Wyoming</option><option value='Yale' >Yale</option><option value='Youngstown St.' >Youngstown St.</option><option value='Youngstown State (OH)' >Youngstown State (OH)</option></select>  
+ 
+</form>
+<h1>2017 NFL Combine Results (ILB) </h1>
+<form id='clear'  action="nflcombinedata.php" method="GET"> 
+<button type='submit'>Clear Filters</button>
+</form>
+</p> 
+<span style="font-weight:bold; font-size:12px;">*Not timed/scored officially at the NFL Combine</span>
+<br>
+<span style="font-style:italic; font-size:12px;">
+Click column headers to sort.
+</span>
+<div align="right"><span style="font-style-italics; font-size:11px;"><a href="/nflcombinedata.php">Click here to return to standard sortable table</a></span></div>
+</div>
+
+<div id="datatable" align='center'>
+<table class="sortable" border=1 cellspacing="1" cellpadding="1" bordercolor="#333333">
+<thead>
+<tr class='headerfont'>
+<td><div align='center'>Year</div></td>
+<td><div align='center'>Name</div></td>
+<td><div align='center'>College</div></td>
+<td><div align='center'>POS</div></td>
+<td align='center'><div align='center'>Height <span style="font-size:10px;">(in)</span></div></td>
+<td align='center'><div align='center'>Weight <span style="font-size:10px;">(lbs)</span></div></td>
+<td>Hand Size <span style="font-size:10px;">(in)</span></td>
+<td>Arm Length <span style="font-size:10px;">(in)</span></td>
+<td><div align='center'><span style="font-size:14px;">Wonderlic</span></div></td>
+<td><div align='center'>40 <span style="font-size:12px;">Yard</span></div></td>
+<td><div align='center'><span style="font-size:12px;">Bench Press</span></div></td>
+<td style="font-size:14px;"><div align='center'>Vert Leap <span style="font-size:10px;">(in)</span></div></td>
+<td style="font-size:14px;"><div align='center'>Broad Jump <span style="font-size:10px;">(in)</span></div></td>
+<td>Shuttle</td>
+<td>3Cone</td>
+<td>60Yd Shuttle</td>
+</tr>
+</thead>
+<tbody>
+<tr class='tablefont'><td><div align='center'>2017</td><td><div align='center'><a href='http://nflcombineresults.com/playerpage.php?f=Kendell&l=Beckwith&i=22235'>Kendell Beckwith</a></div></td><td><div align='center'>LSU</div></td><td><div align='center'>ILB</div></td><td><div align='center'>74</div></td><td><div align='center'>243</div></td><td><div align='center'>9.50</div></td><td><div align='center'>33.00</div></td><td><div align='center'></div></td><td><div align='center'></div></td><td><div align='center'>20</div></td><td><div align='center'></div></td><td><div align='center'></div></td><td><div align='center'></div></td><td><div align='center'></div></td><td><div align='center'></div></td></tr><tr class='tablefont'><td><div align='center'>2017</td><td><div align='center'><a href='http://nflcombineresults.com/playerpage.php?f=Ben&l=Boulware&i=22241'>Ben Boulware</a></div></td><td><div align='center'>Clemson</div></td><td><div align='center'>ILB</div></td><td><div align='center'>72</div></td><td><div align='center'>238</div></td><td><div align='center'>10.00</div></td><td><div align='center'>30.50</div></td><td><div align='center'></div></td><td><div align='center'></div></td><td><div align='center'>20</div></td><td><div align='center'>29.5</div></td><td><div align='center'>111</div></td><td><div align='center'>7.02</div></td><td><div align='center'></div></td><td><div align='center'></div></td></tr><tr class='tablefont'><td><div align='center'>2017</td><td><div align='center'><a href='http://nflcombineresults.com/playerpage.php?f=Ben&l=Gedeon&i=22320'>Ben Gedeon</a></div></td><td><div align='center'>Michigan</div></td><td><div align='center'>ILB</div></td><td><div align='center'>74</div></td><td><div align='center'>244</div></td><td><div align='center'>10.00</div></td><td><div align='center'>32.63</div></td><td><div align='center'></div></td><td><div align='center'>4.75</div></td><td><div align='center'>27</div></td><td><div align='center'>34.5</div></td><td><div align='center'>119</div></td><td><div align='center'>6.98</div></td><td><div align='center'>4.39</div></td><td><div align='center'>11.84</div></td></tr><tr class='tablefont'><td><div align='center'>2017</td><td><div align='center'><a href='http://nflcombineresults.com/playerpage.php?f=Connor&l=Harris&i=22334'>Connor Harris</a></div></td><td><div align='center'>Lindenwood</div></td><td><div align='center'>ILB</div></td><td><div align='center'>71</div></td><td><div align='center'>242</div></td><td><div align='center'>9.38</div></td><td><div align='center'>30.13</div></td><td><div align='center'></div></td><td><div align='center'>4.73</div></td><td><div align='center'>18</div></td><td><div align='center'>33.0</div></td><td><div align='center'>114</div></td><td><div align='center'>7.13</div></td><td><div align='center'>4.18</div></td><td><div align='center'></div></td></tr></tbody>
+<tfoot>
+<tr style="background-color:#333333;"><td colspan=15>&nbsp;</td></tr>
+</tfoot>
+</table>
+</div>
+</body>
+</html>
